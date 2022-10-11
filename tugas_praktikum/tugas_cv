@@ -1,0 +1,38 @@
+<title>CV Hany Hidianti</title>
+    </head>
+    <body bgcolor="#9933FF" text="white">
+        <div style="background-color : #FF89BF">
+        <h1 align="center">CURRICULUM VITAE </h1>
+        <hr/>
+        <center>
+        <img src="assets_1/hany.jpg" alt="gambar" width="220px" height="260px"/>
+        </center>   
+        </div>
+        <p style="text-align : center">Perkenalkan nama saya Hany Hidianti,<br/> Mahasiswa di STT Terpadu Nurul Fikri Program Studi Teknik Informatika</p>
+
+            <h3 style="background-color:#FF89BF">Personal Details</h3>
+            <ul type="disc">
+                <li><b> Nama : </b> Hany Hidianti</li>
+                <li><b> Tempat, Tanggal Lahir : </b> Serang, 20 April 2004</li>
+                <li><b> Umur : </b> 18 Tahun</li>
+                <li><b> Agama : </b> Islam</li>
+                <li><b> Hobi : </b> Menonton Mendengarkan musik</li>
+                <li><b> Alamat : </b> Kp. Tipar Rt 03/RW 09, Kode Pos : 16660, Argapura-Cigudg, Kab. Bogor  </li>
+                <li><b> Status : </b> MAHASISWA</li>
+            </ul>
+        </p>
+            <h3 style="background-color:#FF89BF">Education Details</h3>
+            <ul type="circle">
+                <li><b> SDN ARGAPURA 03 </b></li>
+                <li><b> SMPN 1 JASINGA </b></li>
+                <li><b> SMAN 1 JASINGA </b> </li>
+            </ul>
+            <h3 style="background-color:#FF89BF">My Contacts</h3></h3>
+            <ul type="disc">
+                <li><b> Email : </b> hanyhidianti123@gmail</li>
+                <li><b> No Telephon : </b> +62 831-1419-230</li>
+                <li><b> Instagram : </b> @siupestar</li>
+            </ul>
+        </ul> 
+    </body>
+</html>

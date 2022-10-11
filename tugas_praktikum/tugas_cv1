@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CV</title>
+        <style type="text/css">
+h1{
+background-color:#FEC3DF;
+padding: 4px;
+}
+h2{
+color: white;
+background-color: #FEC3DF;
+padding: 3px;
+}
+        </style>
+    </head>
+<body style="background-color: #e1bff3(227, 227, 227);">
+<h1 align="center">CURRICULUM VITAE</h1>
+<center>
+    <img src="assets_1/hany.jpg" width="150px" border="2">
+</center>
+    <tr>
+	    <td>
+		    <h2 id="1">PROFIL</h2>
+	    </td>
+    </tr>
+<table align="center">
+    <tr>
+	    <td width="1%"><b>Nama</b></td>
+	    <td width="10%">: Hany Hidianti</td>
+    </tr>
+    <tr>
+	    <td width="1%"><b>Tempat, Tanggal Lahir</b></td>
+	    <td width="10%">: Serang, 20 April 2004</td>
+    </tr>
+    <tr>
+	    <td width="1%"><b>Umur</b></td>
+	    <td width="10%">: 18 Tahun</td>
+    </tr>
+    <tr>
+	    <td width="1%"><b>Alamat</b></td>
+	    <td width="10%">: Kp. Tipar Rt 03/RW 09, Kode Pos : 16660, Argapura-Cigudg, Kab. Bogor</td>
+    </tr>
+</table>
+<h2 id="2">PENDIDIKAN</h2>
+<table align="center">
+    <tr>
+	    <td width="1%"><b>Sekolah Dasar</b></td>
+	    <td width="10%">: SDN ARGAPURA 03</td>
+    </tr>
+    <tr>
+	    <td width="1%"><b>Sekolah Menengah Pertama</b></td>
+	    <td width="10%">: SMPN 1 JASINGA</td>
+    </tr>
+    <tr>
+	    <td width="1%"><b>Sekolah Menengah Akhir</b></td>
+	    <td width="10%">: SMAN 1 JASINGA</td>
+    </tr>
+    <tr>
+        <td width="1%"><b>Perguruan Tinggi</b></td>
+        <td width="10%">: STT Terpadu Nurul Fikri</td>
+    </tr>
+</table>
+<h2 id="4">KONTAK</h2>
+<table align="center">
+    <tr>
+	    <td width="1%"><b>Facebook</b></td>
+	    <td width="10%">: Hany Hidianti</td>
+    </tr>
+    <tr>
+        <td width="1%"><b>Instagram</b></td>
+        <td width="10%">: siupestar</td>
+    </tr>
+    <tr>
+	    <td width="1%"><b>Linkedin</b></td>
+	    <td width="10%">: Hany Hidianti</td>
+    </tr>
+    <tr>
+	    <td width="1%"><b>Github</b></td>
+	    <td width="10%">: hanyhidianti</td>
+    </tr>
+</table>
+</body>
+</html>
