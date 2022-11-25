@@ -1,0 +1,15 @@
+/* Reset margin dan padding pada body*/
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display: flex;
+}
+
+img{
+    height: 10vw; /* Tinggi gambar 10% dari lebar parent */
+    flex-grow: 1; /* Mengisi ruang kosong */
+    margin: 1px;
+}
