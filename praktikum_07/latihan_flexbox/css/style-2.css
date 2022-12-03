@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .koleksi img {
     width: 200px;
 }
@@ -9,3 +10,16 @@
     padding: 20px;
 }
 
+=======
+.koleksi img {
+    width: 200px;
+}
+
+.koleksi {
+    display: flex;
+    background-color: lightyellow;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+>>>>>>> 3b20b69e5d84c2e13529b945c708aecd37b9ab23

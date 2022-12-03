@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
     margin: 0;
     padding: 0;
@@ -37,4 +38,45 @@ aside{
     background-color: cyan;
     width: 17vw;
     padding: 20px;
+=======
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.content{
+    display: flex;
+    font-size: x-large;
+}
+
+nav{
+    width: 17vw;
+    flex-grow: 1;
+    background-color: pink;
+    padding: 20px;
+}
+
+header, footer{
+    width: 80vw;
+    height: 15vh;
+    background-color: khaki;
+    padding: 20px;
+}
+
+.container2{
+    display: flex;
+    height: 60vh;
+}
+
+article{
+    display: flex;
+    flex-grow: 1;
+    padding: 20px;
+}
+
+aside{
+    background-color: cyan;
+    width: 17vw;
+    padding: 20px;
+>>>>>>> 3b20b69e5d84c2e13529b945c708aecd37b9ab23
 }

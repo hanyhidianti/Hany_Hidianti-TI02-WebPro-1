@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* Reset margin dan padding pada body*/
 body{
     margin: 0;
@@ -12,4 +13,20 @@ img{
     height: 10vw; /* Tinggi gambar 10% dari lebar parent */
     flex-grow: 1; /* Mengisi ruang kosong */
     margin: 1px;
+=======
+/* Reset margin dan padding pada body*/
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display: flex;
+}
+
+img{
+    height: 10vw; /* Tinggi gambar 10% dari lebar parent */
+    flex-grow: 1; /* Mengisi ruang kosong */
+    margin: 1px;
+>>>>>>> 3b20b69e5d84c2e13529b945c708aecd37b9ab23
 }

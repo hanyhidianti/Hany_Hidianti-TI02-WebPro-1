@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .container {
     display: flex;
     flex-wrap: wrap;
@@ -25,4 +26,33 @@
 
 .item-4 {
     background-color: plum;
+=======
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.kotak {
+    border: 1px solid black;
+    width: 150px;
+    height: 700px;
+}
+
+.item-1 {
+    background-color: palevioletred;
+}
+
+.item-2 {
+    background-color: pink;
+}
+
+.item-3 {
+    background-color: peachpuff;
+}
+
+.item-4 {
+    background-color: plum;
+>>>>>>> 3b20b69e5d84c2e13529b945c708aecd37b9ab23
 }
